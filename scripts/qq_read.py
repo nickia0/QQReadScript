@@ -26,7 +26,6 @@ from setup import get_standard_time
 from utils import notify
 from utils.configuration import read
 
-
 def pretty_dict(dict):
     """
     格式化输出 json 或者 dict 格式的变量
